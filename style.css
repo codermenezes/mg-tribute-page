@@ -8,19 +8,18 @@
 #image {
   max-width: 100%;
   height: auto;
-  margin-left: auto;
-    margin-right: auto;
+  margin: auto;
 }
 div {
 
 }
 ul {
-    background: #3399ff;
-    padding: 20px;
+/*    background: #3399ff;*/
+    padding: 18px;
 }
 
 ul li {
-    background: #cce5ff;
+/*    background: #cce5ff;*/
     margin: 5px;
     text-align: left;
     padding-left: 5px;
