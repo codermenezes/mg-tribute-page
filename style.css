@@ -1,8 +1,7 @@
 #main {
   background-color: gray;
 }
-.center
-{
+.center {
   text-align: center;
 }
 img {
@@ -11,17 +10,15 @@ img {
   height: auto;
   margin: auto;
 }
-div {
 
-}
 ul {
-/*    background: #3399ff;*/
-    padding: 18px;
+  /*    background: #3399ff;*/
+  padding: 18px;
 }
 
 ul li {
-/*    background: #cce5ff;*/
-    margin: 5px;
-    text-align: left;
-    padding-left: 5px;
+  /*    background: #cce5ff;*/
+  margin: 5px;
+  text-align: left;
+  padding-left: 5px;
 }
